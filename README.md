@@ -13,3 +13,5 @@
 1. Разработана требуемая UML-диаграмма, размещена в wiki как иллюстрация к тексту
  
 Ссылка на личную страницу https://martishovmmm.github.io/
+
+Ссылка на вики https://github.com/martishovmmm/martishovmmm.github.io/wiki
